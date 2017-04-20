@@ -1,0 +1,8 @@
+C:\Users\kasem.w\Documents\dotnet\myweb\bin\Debug\netcoreapp1.1\myweb.deps.json
+C:\Users\kasem.w\Documents\dotnet\myweb\bin\Debug\netcoreapp1.1\myweb.runtimeconfig.json
+C:\Users\kasem.w\Documents\dotnet\myweb\bin\Debug\netcoreapp1.1\myweb.runtimeconfig.dev.json
+C:\Users\kasem.w\Documents\dotnet\myweb\bin\Debug\netcoreapp1.1\myweb.dll
+C:\Users\kasem.w\Documents\dotnet\myweb\bin\Debug\netcoreapp1.1\myweb.pdb
+C:\Users\kasem.w\Documents\dotnet\myweb\obj\Debug\netcoreapp1.1\myweb.AssemblyInfo.cs
+C:\Users\kasem.w\Documents\dotnet\myweb\obj\Debug\netcoreapp1.1\myweb.dll
+C:\Users\kasem.w\Documents\dotnet\myweb\obj\Debug\netcoreapp1.1\myweb.pdb
